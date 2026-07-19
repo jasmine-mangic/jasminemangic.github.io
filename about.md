@@ -4,27 +4,30 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+---
+layout: page
+title: About
+---
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Administration & Business Support Professional
 
-There are currently two themes built on Poole:
+I am an organised and proactive Administration and Business Support professional with 9+ years of experience providing reliable administrative, operational, and customer support across a range of industries.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I specialise in supporting teams through effective coordination, document management, compliance support, reporting, stakeholder communication, and process improvement.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Throughout my career, I have supported busy workplaces by managing competing priorities, improving administrative processes, maintaining accurate records, and providing professional service to internal teams, clients, and customers.
 
-## Setup
+## Professional Strengths
 
-Some fun facts about the setup of this project include:
+- Administration and operational support
+- Document control and records management
+- Calendar, email and inbox management
+- Customer service and stakeholder communication
+- Training and event coordination
+- Compliance and reporting support
+- Process improvement and problem solving
+- Adapting quickly to new systems and software
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+## Career Objective
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+I am currently seeking a long-term opportunity where I can contribute my administrative experience, continue developing professionally, and support a collaborative team environment.
