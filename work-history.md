@@ -1,4 +1,3 @@
-<br>
 ---
 layout: page
 title: Work History
