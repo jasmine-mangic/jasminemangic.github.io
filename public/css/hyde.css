@@ -121,7 +121,20 @@ a.sidebar-nav-item:focus {
   }
 }
 
+.contact-button {
+  display: block;
+  margin-top: 1.5rem;
+  padding: 0.7rem 1rem;
+  text-align: center;
+  border: 1px solid rgba(255,255,255,.4);
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+}
 
+.contact-button:hover {
+  background: rgba(255,255,255,.15);
+}
 /* Container
  *
  * Align the contents of the site above the proper threshold with some margin-fu
