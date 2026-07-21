@@ -3,12 +3,12 @@ layout: page
 title: Contact
 ---
 
-## Contact
+
 
 I'd be pleased to discuss administration, business support, or project administration opportunities.
 
-**Email:** your@email.com
+**Email:** jasminemangic.wk@gmail.com
 
-**LinkedIn:** https://linkedin.com/in/yourprofile
+**LinkedIn:** https://www.linkedin.com/in/jasminemangic/
 
-**Seek:** https://www.seek.com.au/profiles/yourprofile
+**Seek:** au.seek.com/profiles/jasmine-mangic-dT59cbVqmD
