@@ -77,6 +77,6 @@ duties, contributing to compliance reporting, collaborating and supporting colle
 - Tax Acounting Firm - Client Services Assistant  Nov 2017 - Jun 2019
 - Specialised Tree Lopping - Temporary Admin  Oct 2017- Oct 2017
 - Family Law Firm - Administrative Assistant  Aug 2017 - Oct 2017
-- Satterley Property Group - Office Assistant & Settlement Clerk  Jun 2016-Jul 201
+- Satterley Property Group - Office Assistant & Settlement Clerk  Jun 2016-Jul 2017
 
 ---
