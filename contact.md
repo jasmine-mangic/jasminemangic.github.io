@@ -11,4 +11,4 @@ I'd be pleased to discuss administration, business support, or project administr
 
 **LinkedIn:** https://www.linkedin.com/in/jasminemangic/
 
-**Seek:** https://www.)seek.com/profiles/jasmine-mangic-dT59cbVqmD
+**Seek:** https://www.seek.com/profiles/jasmine-mangic-dT59cbVqmD
