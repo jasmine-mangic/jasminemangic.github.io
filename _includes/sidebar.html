@@ -1,76 +1,58 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
+
     <div class="sidebar-about">
       <h1>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
         </a>
       </h1>
+
       <p class="lead">{{ site.description }}</p>
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}"
+         href="{{ site.baseurl }}">
+        Home
+      </a>
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
+        {% if node.title and node.layout == "page" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
+             href="{{ node.url }}">
+            {{ node.title }}
+          </a>
         {% endif %}
       {% endfor %}
-      <a class="contact-button" href="/contact/">Contact Me</a>
-</nav>
 
-   <div class="sidebar-links">
+    </nav>
 
-  <a href="mailto:jasminemangic.k@gmail.com" title="Email">
-    <i class="fa-solid fa-envelope"></i>
-  </a>
+    <div class="sidebar-links">
 
-  <a href="https://www.linkedin.com/in/jasminemangic/"
-     target="_blank"
-     title="LinkedIn">
-    <i class="fa-brands fa-linkedin"></i>
-  </a>
+      <a href="mailto:jasminemangic.wk@gmail.com" title="Email">
+        <i class="fa-solid fa-envelope"></i>
+      </a>
 
-  <a href="au.seek.com/profiles/jasmine-mangic-dT59cbVqmD"
-     target="_blank"
-     title="Seek">
-    <i class="fa-solid fa-briefcase"></i>
-  </a>
-     .sidebar-links {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+      <a href="https://www.linkedin.com/in/jasminemangic/" target="_blank" title="LinkedIn">
+        <i class="fa-brands fa-linkedin"></i>
+      </a>
 
-  display: flex;
-  justify-content: center;
-  gap: 1.2rem;
-}
+      <a href="https://www.seek.com.au/profiles/jasmine-mangic-dT59cbVqmD" target="_blank" title="Seek">
+        <i class="fa-solid fa-briefcase"></i>
+      </a>
 
-.sidebar-links a {
-  color: white;
-  font-size: 1.3rem;
-  transition: opacity .2s ease;
-}
+    </div>
 
-.sidebar-links a:hover {
-  opacity: .7;
-}
+    <a class="contact-button" href="/contact/">Contact Me</a>
 
-</div>
-  </ul>
-</div>
-     <p>
-  &copy; {{ site.time | date: '%Y' }} Jasmine Mangic.<br>
-  Built using the Hyde theme by Mark Otto, released under the MIT License.
-</p>
+    <p class="sidebar-footer">
+      &copy; {{ site.time | date: '%Y' }} Jasmine Mangic
+      Built using the Hyde theme by Mark Otto, 
+      released under the MIT License.
+    </p>
+
   </div>
 </div>
-
